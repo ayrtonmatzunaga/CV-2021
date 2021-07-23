@@ -1,0 +1,89 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #F6F6F6;
+}
+
+h1, h4, h5, h6, p, li {
+  font-family: "Montserrat-Bold", sans-serif;
+  color: white;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 50px;
+}
+
+p, li {
+  opacity: 70%;
+}
+
+li {
+  margin-left: 2.5%;
+}
+
+/****************************CLASS SELECTORS *****************************/
+.lado-izquierdo {
+  background-color: #334257;
+  height: auto;
+  width: 100%;
+  text-align: center;
+  padding: 0 0 0 0;
+}
+
+.lado-derecho {
+  background-color: #EEEEEE;
+  height: auto;
+}
+
+.superior {
+  background-color: #B2B1B9;
+  height: 150px;
+  width: 100%;
+}
+
+.superior h1, h5 {
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+.informacion-personal {
+  text-align: left;
+  margin-left: 10%;
+}
+
+.informacion-personal p {
+  margin-bottom: 8px;
+}
+
+.resumen h4 {
+  font-family: "Montserrat-Bold", sans-serif;
+  color: #334257;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.resumen h5 {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 0;
+  margin-left: 50px;
+  color: BLACK;
+}
+
+.resumen p {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 2.5%;
+  margin-left: 50px;
+  color: BLACK;
+}
+
+.resumen li {
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 2%;
+  margin-left: 50px;
+  color: BLACK;
+}
+
+/****************************ID SELECTORS *****************************/
